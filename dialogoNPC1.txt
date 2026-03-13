@@ -2,4 +2,4 @@ He oído que los Caballeros de Atenea han pasado por este santuario.
 Dicen que su cosmos puede iluminar incluso la noche más oscura.
 ¿Te unirás a los Caballeros del Zodiaco para proteger a Atenea?
 
-["dialogoNPC-SI"]
+[ "dialogoNPC-SI" , "dialogoNPC-NO" ]
